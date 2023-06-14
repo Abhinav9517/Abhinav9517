@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinav9517
 - 👀 I’m interested in learning curious things
-- 🌱 I’m currently learning coding skills
+- 🌱 I’m currently learning web development and python program 
 - 💞️ I’m looking to collaborate in any tech startup to contribute and learn lots of things
 - 📫 How to reach me 
 
